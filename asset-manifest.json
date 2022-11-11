@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.62e24279.css",
-    "main.js": "/static/js/main.a140ba3c.js",
+    "main.js": "/static/js/main.a44a3753.js",
     "static/js/314.7b9ab4d6.chunk.js": "/static/js/314.7b9ab4d6.chunk.js",
     "static/js/906.541aeb0c.chunk.js": "/static/js/906.541aeb0c.chunk.js",
     "static/media/oil-crate.gif": "/static/media/oil-crate.97016e19b9ace5ad1d85.gif",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.62e24279.css",
-    "static/js/main.a140ba3c.js"
+    "static/js/main.a44a3753.js"
   ]
 }
