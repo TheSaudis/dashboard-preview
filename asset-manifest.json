@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f5e338a.css",
-    "main.js": "/static/js/main.454954ba.js",
+    "main.css": "/static/css/main.4871e57b.css",
+    "main.js": "/static/js/main.d6388e7d.js",
     "static/js/314.7b9ab4d6.chunk.js": "/static/js/314.7b9ab4d6.chunk.js",
     "static/js/906.541aeb0c.chunk.js": "/static/js/906.541aeb0c.chunk.js",
     "static/media/oil-crate.gif": "/static/media/oil-crate.97016e19b9ace5ad1d85.gif",
@@ -34,7 +34,7 @@
     "static/media/crate-arrow.svg": "/static/media/crate-arrow.80d31694cc77419290e8bfe24d3bc659.svg"
   },
   "entrypoints": [
-    "static/css/main.9f5e338a.css",
-    "static/js/main.454954ba.js"
+    "static/css/main.4871e57b.css",
+    "static/js/main.d6388e7d.js"
   ]
 }
