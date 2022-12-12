@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0e5112d.css",
-    "main.js": "/static/js/main.9d4ee486.js",
+    "main.css": "/static/css/main.4a4e2ed6.css",
+    "main.js": "/static/js/main.3e08fc0c.js",
     "static/js/314.7b9ab4d6.chunk.js": "/static/js/314.7b9ab4d6.chunk.js",
     "static/js/218.b0ae6d57.chunk.js": "/static/js/218.b0ae6d57.chunk.js",
     "static/media/oil-crate.gif": "/static/media/oil-crate.97016e19b9ace5ad1d85.gif",
     "static/media/cairo-regular.ttf": "/static/media/cairo-regular.c12e6ac21d69099c257f.ttf",
     "static/media/oil-rig-bg.png": "/static/media/oil-rig-bg.2246aba5d672a6ed1746.png",
+    "static/media/oil-rig.png": "/static/media/oil-rig.d27f5e041fde4cc45ffe.png",
     "static/media/saudi-2.png": "/static/media/saudi-2.a1be5a782afe8aa7a23d.png",
     "static/media/circular-std-medium.otf": "/static/media/circular-std-medium.9ffafeddf192e8c8a111.otf",
     "static/media/circular-book.otf": "/static/media/circular-book.9048137056e4347dbbd5.otf",
@@ -16,6 +17,7 @@
     "static/media/caution.png": "/static/media/caution.e63bcf7c0587d6139399.png",
     "static/media/discord.png": "/static/media/discord.4c718ea9ac193a7240d9.png",
     "static/media/antonio-light.ttf": "/static/media/antonio-light.bc423f34342776c96ce2.ttf",
+    "static/media/exchange.png": "/static/media/exchange.73ad0a4cb3367c39d320.png",
     "static/media/block-oil.png": "/static/media/block-oil.94bf2e3229c4e840a98b.png",
     "static/media/block-relic.png": "/static/media/block-relic.209b919ea0a152f404e3.png",
     "static/media/twitter.png": "/static/media/twitter.86ced53b0347a70d7cd5.png",
@@ -39,7 +41,7 @@
     "static/media/crate-arrow.svg": "/static/media/crate-arrow.80d31694cc77419290e8bfe24d3bc659.svg"
   },
   "entrypoints": [
-    "static/css/main.b0e5112d.css",
-    "static/js/main.9d4ee486.js"
+    "static/css/main.4a4e2ed6.css",
+    "static/js/main.3e08fc0c.js"
   ]
 }
