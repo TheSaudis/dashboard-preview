@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a4e2ed6.css",
-    "main.js": "/static/js/main.3e08fc0c.js",
+    "main.css": "/static/css/main.8e4e2b5b.css",
+    "main.js": "/static/js/main.dbb9733d.js",
     "static/js/314.7b9ab4d6.chunk.js": "/static/js/314.7b9ab4d6.chunk.js",
-    "static/js/218.b0ae6d57.chunk.js": "/static/js/218.b0ae6d57.chunk.js",
+    "static/js/906.da885093.chunk.js": "/static/js/906.da885093.chunk.js",
     "static/media/oil-crate.gif": "/static/media/oil-crate.97016e19b9ace5ad1d85.gif",
     "static/media/cairo-regular.ttf": "/static/media/cairo-regular.c12e6ac21d69099c257f.ttf",
     "static/media/oil-rig-bg.png": "/static/media/oil-rig-bg.2246aba5d672a6ed1746.png",
@@ -41,7 +41,7 @@
     "static/media/crate-arrow.svg": "/static/media/crate-arrow.80d31694cc77419290e8bfe24d3bc659.svg"
   },
   "entrypoints": [
-    "static/css/main.4a4e2ed6.css",
-    "static/js/main.3e08fc0c.js"
+    "static/css/main.8e4e2b5b.css",
+    "static/js/main.dbb9733d.js"
   ]
 }
