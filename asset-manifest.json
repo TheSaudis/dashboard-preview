@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e4e2b5b.css",
-    "main.js": "/static/js/main.c18c3bf6.js",
+    "main.css": "/static/css/main.b33d2982.css",
+    "main.js": "/static/js/main.fa1aa5cc.js",
     "static/js/314.7b9ab4d6.chunk.js": "/static/js/314.7b9ab4d6.chunk.js",
-    "static/js/906.da885093.chunk.js": "/static/js/906.da885093.chunk.js",
+    "static/js/218.50a92919.chunk.js": "/static/js/218.50a92919.chunk.js",
+    "static/media/cheetahs-anim.gif": "/static/media/cheetahs-anim.d2a53848879e716c20d8.gif",
+    "static/media/saudis-anim.gif": "/static/media/saudis-anim.917fafff02735e3edb05.gif",
+    "static/media/passport-bg.png": "/static/media/passport-bg.28401fe37c16b93953e5.png",
     "static/media/oil-crate.gif": "/static/media/oil-crate.97016e19b9ace5ad1d85.gif",
+    "static/media/passport-guy.png": "/static/media/passport-guy.d3e22c447ea4463a02c0.png",
     "static/media/cairo-regular.ttf": "/static/media/cairo-regular.c12e6ac21d69099c257f.ttf",
     "static/media/oil-rig-bg.png": "/static/media/oil-rig-bg.2246aba5d672a6ed1746.png",
     "static/media/oil-rig.png": "/static/media/oil-rig.d27f5e041fde4cc45ffe.png",
@@ -21,11 +25,14 @@
     "static/media/block-oil.png": "/static/media/block-oil.94bf2e3229c4e840a98b.png",
     "static/media/block-relic.png": "/static/media/block-relic.209b919ea0a152f404e3.png",
     "static/media/twitter.png": "/static/media/twitter.86ced53b0347a70d7cd5.png",
+    "static/media/saudis-logo.png": "/static/media/saudis-logo.38b81b38821a11336e7f.png",
     "static/media/discord-black.png": "/static/media/discord-black.c6e45d7b446d42bb7d78.png",
     "static/media/twitter-black.png": "/static/media/twitter-black.1a9048e817adf4cdbc5b.png",
     "static/media/saudi.png": "/static/media/saudi.7b9357911c29800418f6.png",
     "static/media/open-link.png": "/static/media/open-link.8756deb93344b1fca9df.png",
     "static/media/dune-night.png": "/static/media/dune-night.2bcca1d54786285fa7c9.png",
+    "static/media/cheetahs-logo.png": "/static/media/cheetahs-logo.374e762f96ac65969a4c.png",
+    "static/media/saudi-3.jpg": "/static/media/saudi-3.7d890574c0d3cca571dc.jpg",
     "static/media/crown.png": "/static/media/crown.1f547ae354ce71a59933.png",
     "static/media/cheetah-bg.png": "/static/media/cheetah-bg.cae30c144e8e33436f44.png",
     "static/media/cheetah-bg-2.png": "/static/media/cheetah-bg-2.1bce6901f9be3cfd3aac.png",
@@ -41,7 +48,7 @@
     "static/media/crate-arrow.svg": "/static/media/crate-arrow.80d31694cc77419290e8bfe24d3bc659.svg"
   },
   "entrypoints": [
-    "static/css/main.8e4e2b5b.css",
-    "static/js/main.c18c3bf6.js"
+    "static/css/main.b33d2982.css",
+    "static/js/main.fa1aa5cc.js"
   ]
 }
