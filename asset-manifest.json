@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.02dfc497.css",
-    "main.js": "/static/js/main.ed76d0ec.js",
+    "main.css": "/static/css/main.44bf8f07.css",
+    "main.js": "/static/js/main.9eafc30c.js",
     "static/js/314.7b9ab4d6.chunk.js": "/static/js/314.7b9ab4d6.chunk.js",
     "static/js/218.50a92919.chunk.js": "/static/js/218.50a92919.chunk.js",
     "static/media/cheetahs-anim.gif": "/static/media/cheetahs-anim.d2a53848879e716c20d8.gif",
@@ -48,7 +48,7 @@
     "static/media/crate-arrow.svg": "/static/media/crate-arrow.80d31694cc77419290e8bfe24d3bc659.svg"
   },
   "entrypoints": [
-    "static/css/main.02dfc497.css",
-    "static/js/main.ed76d0ec.js"
+    "static/css/main.44bf8f07.css",
+    "static/js/main.9eafc30c.js"
   ]
 }
