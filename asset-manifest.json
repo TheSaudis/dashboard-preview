@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.44bf8f07.css",
-    "main.js": "/static/js/main.9eafc30c.js",
+    "main.js": "/static/js/main.ec95d307.js",
     "static/js/314.7b9ab4d6.chunk.js": "/static/js/314.7b9ab4d6.chunk.js",
     "static/js/218.50a92919.chunk.js": "/static/js/218.50a92919.chunk.js",
     "static/media/cheetahs-anim.gif": "/static/media/cheetahs-anim.d2a53848879e716c20d8.gif",
@@ -49,6 +49,6 @@
   },
   "entrypoints": [
     "static/css/main.44bf8f07.css",
-    "static/js/main.9eafc30c.js"
+    "static/js/main.ec95d307.js"
   ]
 }
